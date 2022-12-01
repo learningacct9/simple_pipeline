@@ -1,0 +1,1 @@
+echo "Project plan is completed successfully"
